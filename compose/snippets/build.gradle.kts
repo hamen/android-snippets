@@ -98,6 +98,7 @@ dependencies {
     implementation(libs.androidx.compose.ui.tooling.preview)
     implementation(libs.androidx.compose.ui.viewbinding)
     implementation(libs.androidx.paging.compose)
+    implementation(libs.androidx.photopicker.embedded.compose)
     implementation(libs.androidx.compose.animation.graphics)
 
     implementation(libs.androidx.compose.material3)

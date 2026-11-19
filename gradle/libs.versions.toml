@@ -34,6 +34,7 @@ androidx-mediarouter = "1.8.1"
 androidx-navigation = "2.10.2"
 androidx-navigation3 = "1.2.0"
 androidx-paging = "3.5.3"
+androidx-photopicker = "1.0.0-alpha03"
 androidx-startup-runtime = "1.2.0"
 androidx-test = "1.7.0"
 androidx-test-core-ktx = "1.7.0"
@@ -269,6 +270,7 @@ androidx-navigation3-runtime = { module = "androidx.navigation3:navigation3-runt
 androidx-navigation3-ui = { module = "androidx.navigation3:navigation3-ui", version.ref = "androidx-navigation3" }
 androidx-paging-common = { module = "androidx.paging:paging-common", version.ref = "androidx-paging" }
 androidx-paging-compose = { module = "androidx.paging:paging-compose", version.ref = "androidx-paging" }
+androidx-photopicker-embedded-compose = { module = "androidx.photopicker:photopicker-embedded-compose", version.ref = "androidx-photopicker" }
 androidx-protolayout = { module = "androidx.wear.protolayout:protolayout", version.ref = "protolayout" }
 androidx-protolayout-expression = { module = "androidx.wear.protolayout:protolayout-expression", version.ref = "protolayout" }
 androidx-protolayout-material = { module = "androidx.wear.protolayout:protolayout-material", version.ref = "protolayout" }
