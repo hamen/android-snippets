@@ -36,6 +36,8 @@ android {
 
 dependencies {
     implementation(libs.androidx.core.ktx)
+    implementation(libs.androidx.fragment.ktx)
+    implementation(libs.androidx.print)
     ksp(libs.androidx.room3.compiler)
     kspTest(libs.androidx.room3.compiler)
     kspAndroidTest(libs.androidx.room3.compiler)
