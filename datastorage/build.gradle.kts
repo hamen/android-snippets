@@ -35,6 +35,7 @@ android {
 }
 
 dependencies {
+    implementation(libs.androidx.activity.ktx)
     implementation(libs.androidx.core.ktx)
     ksp(libs.androidx.room3.compiler)
     kspTest(libs.androidx.room3.compiler)
