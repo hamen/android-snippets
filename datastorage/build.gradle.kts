@@ -36,6 +36,7 @@ android {
 
 dependencies {
     implementation(libs.androidx.core.ktx)
+    implementation(libs.androidx.exifinterface)
     ksp(libs.androidx.room3.compiler)
     kspTest(libs.androidx.room3.compiler)
     kspAndroidTest(libs.androidx.room3.compiler)
